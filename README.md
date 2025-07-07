@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I love learnng about new coding languages and exploring the tech industry!
 <!--
 **FatimaK8/FatimaK8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
